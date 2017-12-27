@@ -1,5 +1,5 @@
 zuul:
   routes:
      userinfo:
-        path: /api-d/**
+        path: /api-a/**
         serviceId: userservice
