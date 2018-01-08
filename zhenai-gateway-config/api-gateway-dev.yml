@@ -3,3 +3,6 @@ zuul:
      userinfo:
         path: /api-d/**
         serviceId: userservice
+     smsinfo:
+        path: /zhenai-sms/**
+        serviceId: zhenai-sms
